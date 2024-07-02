@@ -1,2 +1,5 @@
 django==4.2.13
 django-jalali==6.2.1
+django-decouple==2.1
+psycopg2-binary==2.9.6
+pillow==10.4.0
